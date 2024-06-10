@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot-web-client",
+  "version": "0.0.0",
+  "description": "A Website used to Sign into a Discord Bot like a user",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMTNTBANG/Discord-Bot-Web-Client.git"
+  },
+  "author": "JMTNTBANG",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JMTNTBANG/Discord-Bot-Web-Client/issues"
+  },
+  "homepage": "https://github.com/JMTNTBANG/Discord-Bot-Web-Client#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mysql": "^2.18.1"
+  }
+}
